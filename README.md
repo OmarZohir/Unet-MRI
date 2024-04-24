@@ -22,4 +22,4 @@ This project involves training a U-Net model on single-coil knee MRI data for im
 | Ours   | 0.103    | 0.482    | 22.85 |
 | Baseline | 0.049  | 0.654    | 29.86 |
 
-- Our model was able to reconstruct the undersampled MRI images using with 74% accuracy (Per SSIM), using only 9% of the data used in [the baseline](https://arxiv.org/abs/1811.08839) model
+Our model was able to reconstruct the undersampled MRI images using with 74% accuracy (Per SSIM), using only 9% of the data used in [the baseline](https://arxiv.org/abs/1811.08839) model
